@@ -23,3 +23,6 @@ The following R packages are used in this app
 | ggfortify | unified plotting tools for statistics commonly used, such as GLM, time series, PCA families, clustering and survival analysis
 | scatterplot3d | plots a three dimensional (3D) point cloud
 
+Code: 
+
+https://juanmgg.shinyapps.io/STATISTIC-ANALYSIS/
